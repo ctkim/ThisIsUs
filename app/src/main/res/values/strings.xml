@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ThisIsUs</string>
+    <string name="home">HOME</string>
+    <string name="ideas">IDEAS</string>
 </resources>
