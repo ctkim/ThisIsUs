@@ -9,4 +9,9 @@
         android:id="@+id/menu_ideas"
         android:icon="@drawable/ic_lightbulb_outline"
         android:title="@string/ideas" />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
 </menu>

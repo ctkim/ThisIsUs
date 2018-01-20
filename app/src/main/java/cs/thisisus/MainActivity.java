@@ -59,6 +59,9 @@ public class MainActivity extends AppCompatActivity {
             case R.id.menu_ideas:
                 pushFragment(new IdeasFragment());
                 break;
+            case R.id.menu_settings:
+                pushFragment(new SettingsFragment());
+                break;
         }
     }
 
